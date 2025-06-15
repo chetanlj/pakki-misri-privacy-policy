@@ -32,4 +32,3 @@ We may update this Privacy Policy. Changes will be posted within the app or on o
 9. Contact Us
 For questions or concerns about this Privacy Policy, you can contact us at:
 Email: pakki.misri@gmail.com 
-Website: https://github.com/chetanlj/pakki-misri-privacy-policy
